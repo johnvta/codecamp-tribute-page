@@ -1,0 +1,30 @@
+#title {
+    font-size: 300%;
+    width: 60vmax;
+    padding-top: 60px;
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+.wrapper {
+    display: inline-block;
+    text-align: left;
+  }
+
+body {
+  background-color: #F0F8FF;
+}
+
+.word {
+    padding: 0px 150px 25px 150px;
+        }
