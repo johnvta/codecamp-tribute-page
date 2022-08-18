@@ -1,7 +1,7 @@
 #title {
     font-size: 300%;
     width: 60vmax;
-    padding-top: 60px;
+    padding-top: 30px;
   }
 
 .center {
@@ -14,17 +14,45 @@
     max-width: 100%;
     height: auto;
     display: block;
+    padding-bottom: 10px;
   }
 
 .wrapper {
     display: inline-block;
     text-align: left;
+    padding-right: 100px;
   }
 
-body {
-  background-color: #F0F8FF;
+  body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
 }
 
 .word {
-    padding: 0px 150px 25px 150px;
+    font-style: italic;
+    max-width: 725px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    padding: 35px 0;
         }
+
+#main {
+    margin: 30px 10px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+li {
+    margin: 16px 0;
+}
